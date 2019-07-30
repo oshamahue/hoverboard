@@ -679,17 +679,17 @@
     }
   },
   "speakers" : {
-    "adrian_kajda" : {
+    "hadi_tok" : {
       "bio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
       "company" : "Sygic",
       "companyLogo" : "/images/logos/gdg-lviv.svg",
       "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
       "country" : "Creator of Fuelio app. Fuelio blah blah, Poland",
       "featured" : true,
-      "name" : "Adrian Kajda",
+      "name" : "hadi tok",
       "photo" : "/images/people/adrian_kajda.jpg",
       "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/adrian_kajda.jpg",
-      "shortBio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
+      "shortBio" : "Not Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
       "socials" : [ {
         "icon" : "gplus",
         "link" : "plus.google.com/+AdrianKajda",
@@ -1849,7 +1849,7 @@
       "companyLogo" : "https://dfua16.firebaseapp.com//images/logos/sygic.svg",
       "country" : "Poland",
       "id" : "adrian_kajda",
-      "name" : "Adrian Kajda",
+      "name" : "hadi tok",
       "order" : 6,
       "photoUrl" : "https://dfua16.firebaseapp.com//images/people/adrian_kajda.jpg",
       "sessions" : {
